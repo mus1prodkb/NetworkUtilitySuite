@@ -184,8 +184,8 @@ The target device is on the same local network or the network is configured to f
 Network reset fails
 Run the application from an elevated Administrator terminal or start Visual Studio as Administrator. Restart Windows if the reset commands request it.
 
-License
-Choose a license before publishing the repository. For example, to use the MIT License, add a file named LICENSE containing the official MIT License text.
+License information
+LICENSE.md
 
 Suggested repository setting:
 
